@@ -56,8 +56,8 @@ The model was trained for **2 epochs** with a batch size of **64** using the **A
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/bert-spam-classifier.git](https://github.com/your-username/bert-spam-classifier.git)
-    cd bert-spam-classifier
+    git clone [https://github.com/Nitesh-kelwani/SMS-Spam-with-BERT-PyTorch.git](https://github.com/Nitesh-kelwani/SMS-Spam-with-BERT-PyTorch.git)
+    cd SMS-Spam-with-BERT-PyTorch
     ```
 
 2.  **Install dependencies:**
